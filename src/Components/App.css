@@ -1,0 +1,19 @@
+.App {
+  text-align: center;
+}
+
+.App-link {
+  color: #09d3ac;
+}
+
+.menu ul {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+}
+
+.menu ul li {flex-basis: 16%;}
+
+.menu ul li a {
+    font-size: 18px;
+}
